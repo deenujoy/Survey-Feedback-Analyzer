@@ -1,7 +1,9 @@
-📝 Survey Feedback Analyzer
+📝 Survey Feedback Analyzer 
+
 A Python-based project to collect, clean, and analyze survey feedbacks. This tool demonstrates text processing, word frequency analysis, and rating-based insights — perfect for practicing Python fundamentals with real-world applications.
 
 🚀 Features
+
 Preloaded Feedbacks: Start with sample survey data stored in a dictionary.
 
 Add More Feedbacks: Collect new feedback interactively from users.
@@ -23,6 +25,7 @@ Extract unique words
 Optional Sorting: Sort feedbacks by rating (highest → lowest).
 
 🛠️ Tech Stack
+
 Language: Python 3
 
 Libraries:
